@@ -1,5 +1,7 @@
 # WAT
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/task-parallel-node.svg)](https://greenkeeper.io/)
+
 use `just-task` for CPu intensive calculations
 
 # Evaluation
