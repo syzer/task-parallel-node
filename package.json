@@ -1,0 +1,23 @@
+{
+  "name": "task-prarallel-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syzer/task-prarallel-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syzer/task-prarallel-node/issues"
+  },
+  "homepage": "https://github.com/syzer/task-prarallel-node#readme",
+  "dependencies": {
+    "farmhash": "^3.0.0",
+    "just-task": "^0.11.0"
+  }
+}
